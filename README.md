@@ -64,5 +64,5 @@ equity-portfolio-optimization-r/
 
 **Anastasiya Kotelnikova**  
 MS Data Science Student @ NJIT  
-[GitHub](https://github.com/AnastasiyaKotelnikova) • [LinkedIn](https://www.linkedin.com/in/anastasiyakotelnikova-511660346)
+[GitHub](https://github.com/AnastasiyaKotelnikova) • [LinkedIn][(https://www.linkedin.com/in/anastasiyakotelnikova/)]
 
